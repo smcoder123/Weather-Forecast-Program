@@ -1,0 +1,6 @@
+README.md
+setup.py
+mywebcrawler1.egg-info/PKG-INFO
+mywebcrawler1.egg-info/SOURCES.txt
+mywebcrawler1.egg-info/dependency_links.txt
+mywebcrawler1.egg-info/top_level.txt
