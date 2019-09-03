@@ -1,9 +1,9 @@
 # Weather-Forecast-Program
  A web crawler (command line prog.) which is capable of scrapping feeds from the weather.com site and display it.
 
-# Pre-install Requirements
+# Pre-program running Requirements
 This program needs the firefox web browser inorder for its successful operation side by side.
-In addition to it, Python libraries like BeautifulSoup, Selenium webdriver, pandas and requests should be pre-installed.
+In addition to it, python libraries like BeautifulSoup, Selenium webdriver, pandas,sys and requests should be pre-installed.Thirdly, extract the Gekodriver(whose zip files are available for linux,Windows,macOS) in a particular folder along with that of the myweathercrawler.py file.
 
 # Description about the program 
  The program requires the user to input the place or location of a particular area and then its ask for a choice of its type of weather
