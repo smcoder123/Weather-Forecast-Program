@@ -3,7 +3,7 @@
 
 # Pre-install Requirements
 This program needs the firefox web browser inorder for its successful operation side by side.
-In addition to it, Python libraries like BeautifulSoup,Selenium webdriver, panadas and requests should be pre-installed.
+In addition to it, Python libraries like BeautifulSoup, Selenium webdriver, pandas and requests should be pre-installed.
 
 # Description about the program 
  The program requires the user to input the place or location of a particular area and then its ask for a choice of its type of weather
